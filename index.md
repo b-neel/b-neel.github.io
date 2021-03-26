@@ -1,3 +1,10 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
+---
+
 # Research webpage
 
 Is an air bubble, say, standing at the surface of a water glass doomed to burst, as we may experience it everyday? 
