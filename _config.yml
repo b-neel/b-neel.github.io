@@ -29,13 +29,13 @@ orcid: https://orcid.org/0000-0002-2218-5945
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-scholar
+#  - jekyll-scholar
 
-scholar:
-  style: chicago-author-date.csl 
-  source: ./_bibliography
-  bibliography: published.bib
-  groupby: year
+    #scholar:
+    #  style: chicago-author-date.csl 
+    #  source: ./_bibliography
+    #  bibliography: published.bib
+    #  groupby: year
 
 header_pages:
     - index.md
@@ -43,16 +43,6 @@ header_pages:
     - research.md
     - publications.md
 
-defaults:
-  -
-    scope:
-      path: "_slides" 
-    values:
-      layout: "iframe"
-
-collections:
-  slides:
-    output: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
