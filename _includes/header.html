@@ -27,4 +27,20 @@
       </nav>
     {%- endif -%}
   </div>
+  <div class="wrapper">
+      <img class="img-header" id="randomImage"/>
+  </div>
 </header>
+
+<script type="text/javascript">
+    function getRandomImage() {
+        var images = ['/images/banner-1.jpg', '/images/banner-2.jpg', '/images/banner-3.jpg', '/images/banner-4.jpg'];
+        var image = images[Math.floor(Math.random()*images.length)];
+        return image;
+    }
+    function displayRandomImage() {
+        var htmlImage = document.getElementById("randomImage");
+        htmlImage.src = getRandomImage();
+    }
+    displayRandomImage();
+</script>
