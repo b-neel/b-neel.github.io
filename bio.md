@@ -4,6 +4,9 @@ title: Bio
 permalink: /bio/
 ---
 
+Bio
+===
+
 
 I was trained as a physicist at the *École Normale Supérieure* in Paris, with a specialization in hydrodynamics, complex systems and non-linear physics.
 As parts of the curriculum, I did two experimental internships under the mentoring of:
@@ -16,4 +19,4 @@ Each time, I set up the experiment and implemented the data processing, and both
 I completed my PhD under the supervision of **Emmanuel Villermaux** at the *Institut de Recherche sur les Phénomènes Hors Équilibre* (IRPHE, Marseille).
 There, I worked on the destabilisation and rupture of free standing liquid films, contributing to the fields of liquid fragmentation and stability of interfaces.
 
-My training does not end here, since as a Postdoctoral Research Associate in **Luc Deike**'s group at Princeton University, I am extending my field of expertise to oceanographic and atmospheric sciences.
+My training does not end here, since as a Postdoctoral Research Associate in [**Luc Deike**'s group](https://ldeike.princeton.edu) at Princeton University, I am extending my field of expertise to oceanographic and atmospheric sciences.
