@@ -1,0 +1,24 @@
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+  <div class="wrapper">
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+          <ul class="social-media-list">
+              <li><a href="{{ site.orcid }}"><img class="svg-icon" src="/images/orcid.png"> <span class="username">B. Néel</span></a></li>
+              <li><a href="https://github.com/{{ site.github_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg> <span class="username">{{ site.github_username| escape }}</span></a></li>
+          </ul>
+      </div>
+
+      <div class="footer-col footer-col-2">
+          <a class="u-email" href="mailto:{{ site.email }}"><img class="svg-icon" src="/images/email.svg"/> <span class="username">email</span></a>
+      </div>
+
+      <div class="footer-col footer-col-3">
+          &copy; 2021 Baptiste Néel.<br>Powered by Jekyll & Minima.
+      </div>
+    </div>
+
+  </div>
+
+</footer>

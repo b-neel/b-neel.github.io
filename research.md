@@ -1,4 +1,9 @@
-# Research
+---
+layout: home
+title: Research
+permalink: /research/
+---
+
 ## Ocean Spray 
 Understanding the clouds formation by studying a great multitude of bursting bubbles?
 This is the approach we follow in Deike Lab at Princeton University, under the impulsion of Luc Deike.

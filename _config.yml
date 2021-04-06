@@ -18,19 +18,30 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: B. Néel - Research
+title: Baptiste Néel
 email: neel.b_at_princeton.edu
 description: >- # this means to ignore newlines until "baseurl:"
     Research webpage
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
 github_username:  b-neel
+orcid: https://orcid.org/0000-0002-2218-5945
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-scholar
+
+scholar:
+  style: chicago-author-date.csl 
+  source: ./_bibliography
+  bibliography: published.bib
+  groupby: year
+
+header_pages:
+    - index.md
+    - bio.md
+    - research.md
+    - publications.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
