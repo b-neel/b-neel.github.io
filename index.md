@@ -3,6 +3,9 @@ layout: default
 title: Home
 ---
 
+Welcome home!
+=============
+
 <div class="flex-container">
 <img class="img-circle-avatar" src="/images/baptiste-bubbles.jpg"/>
 Is an air bubble, say, standing at the surface of a water glass doomed to burst, as we may experience it everyday? 
