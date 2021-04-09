@@ -196,6 +196,7 @@ pre {
     width: 180px;
     height: 180px;
     border-radius: 50%;
+    float: left;
 }
 
 .flex-container {
@@ -229,7 +230,6 @@ pre {
     height: 16px;
     display: inline-block;
     fill: #{$grey-color};
-    padding-right: 5px;
     vertical-align: text-top;
 }
 
