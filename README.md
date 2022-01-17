@@ -1,6 +1,5 @@
 # b-neel.github.io
 Research Homepage
 
-This page is under construction...
-
-But my current research page is hosted there: https://scholar.princeton.edu/neelb.
+# See also
+https://orcid.org/0000-0002-2218-5945
