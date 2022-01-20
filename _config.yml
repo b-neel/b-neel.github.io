@@ -39,8 +39,8 @@ plugins:
 
 header_pages:
     - index.md
-    - bio.md
     - research.md
+    - bio.md
     - publications.md
 
 

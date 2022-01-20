@@ -17,12 +17,12 @@ In Preparation
 
 2022
 ----
-* **Néel, B.**, Erinin, M. A. & Deike, L. [Role of Contamination in Optimal Droplet Production by Collective Bubble Bursting](https://doi.org/10.1029/2021GL096740). Geophys. Res. Lett. 49, e2021GL096740 (2022).
+* **Néel, B.**, Erinin, M. A. & Deike, L. [Role of Contamination in Optimal Droplet Production by Collective Bubble Bursting](https://doi.org/10.1029/2021GL096740). Geophys. Res. Lett. 49, e2021GL096740 (2022). [[PDF]](/papers/Neel2022a.pdf)
 
 
 2021
 ----
-* **Néel, B.** & Deike L. [Collective Bursting of Free-Surface Bubbles, and the Role of Surface Contamination](https://doi.org/10.1017/jfm.2021.272). J. Fluid Mech. 917 (2021).
+* **Néel, B.** & Deike L. [Collective Bursting of Free-Surface Bubbles, and the Role of Surface Contamination](https://doi.org/10.1017/jfm.2021.272). J. Fluid Mech. 917 (2021). [[PDF]](/papers/Neel2021.pdf)
 
 2020
 ----
