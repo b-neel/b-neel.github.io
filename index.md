@@ -3,8 +3,8 @@ layout: default
 title: Home
 ---
 
-Welcome home!
-=============
+Welcome!
+========
 
 <div class="flex-container">
 <img class="img-circle-avatar" src="/images/baptiste-bubbles.jpg"/>
