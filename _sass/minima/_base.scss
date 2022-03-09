@@ -49,15 +49,25 @@ main {
   display: block; /* Default value of `display` of `main` element is 'inline' in IE 11. */
 }
 
-
-
+.flush-right {
+    text-align: right;
+}
 /**
  * Images
  */
 img {
-  max-width: 100%;
-  vertical-align: middle;
+    padding: 10px;
+    width: 180px;
+    height: 180px;
+    max-width: 100%;
+    vertical-align: middle;
 }
+
+.img-circle-avatar {
+    border-radius: 50%;
+    float: left;
+}
+
 
 
 
@@ -68,8 +78,14 @@ figure > img {
   display: block;
 }
 
+figure {
+    min-width: 180px;
+}
+
 figcaption {
   font-size: $small-font-size;
+  font-style: italic;
+  text-align: center;
 }
 
 
@@ -191,13 +207,6 @@ pre {
   }
 }
 
-.img-circle-avatar {
-    padding: 10px;
-    width: 180px;
-    height: 180px;
-    border-radius: 50%;
-    float: left;
-}
 
 .flex-container {
   display: flex;
