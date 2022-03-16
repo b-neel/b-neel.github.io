@@ -15,7 +15,7 @@ Ocean Spray
 
 <div class="flex-container">
 <figure>
-<img class="img-circle-avatar" src="/images/bbspray.jpg" title="Bursting bubbles spray"/>
+<img class="img-in-text-circle" src="/images/bbspray.jpg" title="Bursting bubbles spray"/>
 <figcaption>Bursting bubbles spray</figcaption>
 </figure>
 <!--- mv 190221-level50mm-q400ccm-fps500-MIN100-S -> bbspray.jpg' --->
@@ -34,7 +34,7 @@ Liquid Fragmentation
 
 <div class="flex-container">
 <figure>
-<img src="/images/film_rupture.jpg" title="Water film rupture"/>
+<img class="img-in-text" src="/images/film_rupture.jpg" title="Water film rupture"/>
 <figcaption>Water film rupture</figcaption>
 <!--- S5-6-1-230+30 -> film_rupture --->
 </figure>
@@ -52,7 +52,7 @@ Granular Matter
 
 <div class="flex-container">
 <figure>
-<img class="img-circle-avatar" src="/images/grains.jpg" title="Vertically vibrated grains"/>
+<img class="img-in-text-circle" src="/images/grains.jpg" title="Vertically vibrated grains"/>
 <figcaption>Vertically vibrated grains</figcaption>
 </figure>
 <p>

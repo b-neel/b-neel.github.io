@@ -56,19 +56,22 @@ main {
  * Images
  */
 img {
-    padding: 10px;
-    width: 180px;
-    height: 180px;
     max-width: 100%;
     vertical-align: middle;
 }
 
-.img-circle-avatar {
+.img-in-text {
+    padding: 10px;
+    width: 180px;
+    height: 180px;
+}
+.img-in-text-circle {
+    padding: 10px;
+    width: 180px;
+    height: 180px;
     border-radius: 50%;
     float: left;
 }
-
-
 
 
 /**

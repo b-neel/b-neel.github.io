@@ -7,7 +7,7 @@ Welcome!
 ========
 
 <div class="flex-container">
-<img class="img-circle-avatar" src="/images/baptiste-bubbles.jpg"/>
+<img class="img-in-text-circle" src="/images/baptiste-bubbles.jpg"/>
 Is an air bubble, say, standing at the surface of a water glass doomed to burst, as we may experience it everyday? 
 If yes, how long does it take to do so? And what if there are now many bubbles at the surface? Or salt, or surface contaminant?
 We do know that when a single bubble pops, it sends small liquid drops in the atmosphere. 
