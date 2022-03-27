@@ -24,6 +24,11 @@
     }
 }
 
+.sticky {
+    position: fixed;
+    top: 0;
+}
+
 .site-nav {
     z-index: 1;
     float: right;
