@@ -19,4 +19,5 @@ Each time, I set up the experiment and implemented the data processing, and both
 I completed my PhD under the supervision of **Emmanuel Villermaux** at the *Institut de Recherche sur les Phénomènes Hors Équilibre* (IRPHE, Marseille).
 There, I worked on the destabilisation and rupture of free standing liquid films, contributing to the fields of liquid fragmentation and stability of interfaces.
 
-My training does not end here, since as a Postdoctoral Research Associate in [**Luc Deike**'s group](https://ldeike.princeton.edu) at Princeton University, I am extending my field of expertise to oceanographic and atmospheric sciences.
+My training does not end here, since as a Postdoctoral Research Associate in [**Luc Deike**'s group](https://ldeike.princeton.edu) at Princeton University, I extended my field of expertise to oceanographic and atmospheric sciences by investigating collective effects in the bursting of surface bubbles in the context of sea spray aerosols production.
+I am now working as a postdoc with **Véronique Roig** and **Patricia Ern** at IMFT, on 2D bubbles squeezed in a Hele-Shaw cell.
