@@ -16,4 +16,5 @@ But... how high? How little? How many? What about solid, mineral components? Vol
 
 With a physicist’s background, an endless curiosity about the world around, as well as strong experimental skills, I question those objects, their behaviors, interactions and consequences in our everyday lives.
 Bubbles. Drops. And also Clouds. Grains. Sand.
-As a Postdoctoral Research Associate in [Deike Lab](https://ldeike.princeton.edu), I presently work on the production of sea spray aerosols, with an experimental focus on collective effects in the bursting of surface bubbles. 
+I presently work as a postdoc with Véronique Roig and Patricia Ern in [IMFT](https://www.imft.fr/asi-aerodynamique-sillages-interactions/), on 2D bubbles squeezed in a Hele-Shaw cell.
+
