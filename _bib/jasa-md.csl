@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-US">
   <info>
+    <!-- Custom Citation Style, inspired from author-year JASA Style, to output Markdown bibliography -->
     <title>JASA for Markdown</title>
     <title-short>JASA-md</title-short>
     <id>http://b-neel.github.io/_bib/jasa-md.csl</id>
-    <link href="http://www.zotero.org/styles/the-journal-of-the-acoustical-society-of-america" rel="self"/>
+    <link href="http://b-neel.github.io/_bib/jasa-md.csl" rel="self"/>
+    <link href="http://www.zotero.org/styles/the-journal-of-the-acoustical-society-of-america" rel="template"/>
     <link href="http://www.zotero.org/styles/apa" rel="template"/>
     <link href="http://scitation.aip.org/journals/doc/ASALIB-home/corp/pdf/jasa/author_contrib.pdf" rel="documentation"/>
     <author>
+      <name>Baptiste Néel</name>
+      <email>baptiste.neel@imft.fr</email>
+    </author>
+    <contributor>
       <name>Etienne Gaudrain</name>
       <email>egaudrain@gmail.com</email>
-    </author>
+    </contributor>
     <contributor>
       <name>Abhijit Biswas</name>
       <email>abhi_tech_2004@yahoo.co.uk</email>
-    </contributor>
-    <contributor>
-      <name>Baptiste Néel</name>
-      <email>baptiste.neel@imft.fr</email>
     </contributor>
 
     <category citation-format="author-date"/>
     <category field="psychology"/>
     <category field="physics"/>
     <category field="engineering"/>
-    <issn>0001-4966</issn>
-    <eissn>1520-8524</eissn>
     <updated>2023-01-12T21:10:26+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
