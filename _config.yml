@@ -29,19 +29,23 @@ orcid: https://orcid.org/0000-0002-2218-5945
 theme: minima
 plugins:
   - jekyll-feed
-#  - jekyll-scholar
+  - jekyll-scholar
 
-    #scholar:
-    #  style: chicago-author-date.csl 
-    #  source: ./_bibliography
-    #  bibliography: published.bib
-    #  groupby: year
+scholar:
+  #  style: chicago-author-date.csl 
+  style: the-journal-of-the-acoustical-society-of-america
+  source: ./_bib
+  bibliography: neel.bib
+  bibliography_template: {{reference}}
+  order: descending
+  sort_by: date,month
 
 header_pages:
-    - index.md
-    - research.md
-    - bio.md
-    - publications.md
+  - index.md
+  - research.md
+  - bio.md
+  - publications.md
+  - biblio.md
 
 
 # Exclude from processing.
