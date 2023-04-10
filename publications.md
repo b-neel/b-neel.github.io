@@ -24,6 +24,6 @@ Publications
 
 Submitted, under review or in prep.
 -----------------------------------
-* Erinin, M. A., **Néel, B.**, Mazzatenta, M., Duncan, J. H., and Deike, L. “Comparison between shadow imaging and in-line holography for measuring droplet size distributions,” under review for Exp. Fluids.
+* Erinin, M. A., **Néel, B.**, Mazzatenta, M., Duncan, J. H., and Deike, L. “Comparison between shadow imaging and in-line holography for measuring droplet size distributions,” accepted at Exp. Fluids.
 * **Néel, B.**, Guilbert, É., and Villermaux, E., “Marangoni wrinkling cascade of a viscous thread.”
 
