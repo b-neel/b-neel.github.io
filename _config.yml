@@ -20,8 +20,7 @@
 
 title: Baptiste Néel
 email: baptiste.neel_at_univ-amu.fr
-description: >- # this means to ignore newlines until "baseurl:"
-    Research webpage
+description: Research webpage
 github_username:  b-neel
 orcid: https://orcid.org/0000-0002-2218-5945
 
@@ -31,18 +30,9 @@ plugins:
   - jekyll-feed
 #  - jekyll-scholar
 
-    #scholar:
-    #  style: chicago-author-date.csl 
-    #  source: ./_bibliography
-    #  bibliography: published.bib
-    #  groupby: year
 
 header_pages:
     - index.md
-    - research.md
-    - bio.md
-    - publications.md
-
 
 # Exclude from processing.
 # The following items will not be processed, by default.
